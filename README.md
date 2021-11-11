@@ -25,7 +25,7 @@ ex) 100만원 매수 -> 90만원, 90만원 매도 -> 81만원
 - AirDrop: [0x6b7a4fAe9c6833DCB74793A638F5F1Fc23E8e761](https://baobab.scope.klaytn.com/account/0x6b7a4fAe9c6833DCB74793A638F5F1Fc23E8e761)
  
 ## 토큰은 어디서 살 수 있나요?
-아쉽지만 지금은 살 수 없어요. 하지만 [Airdrop](https://baobab.scope.klaytn.com/account/0x6b7a4fAe9c6833DCB74793A638F5F1Fc23E8e761)을 통해 국밥 토큰을 받을 수 있어요!
+아쉽지만 지금은 살 수 없어요.
 
 ### 후원 (Etereum, Klaytn, Binance Smart Chain, Polygon)
 [0x9c031eC3d3D2117263cB4Cc304f4b50194582A93](https://etherscan.io/address/0x9c031eC3d3D2117263cB4Cc304f4b50194582A93)
