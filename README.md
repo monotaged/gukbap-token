@@ -21,8 +21,8 @@ ex) 100만원 매수 -> 90만원, 90만원 매도 -> 81만원
 - AirDrop: 0x0000000000000000000000000000000000000000
 
 ## Baobab Testnet
-- GukBap Token: 0x41caedeb79dbc3d763f0b474217c8a655cd73b5f
-- AirDrop: 0x6b7a4fAe9c6833DCB74793A638F5F1Fc23E8e761
+- GukBap Token: [0x41caedeb79dbc3d763f0b474217c8a655cd73b5f](https://baobab.scope.klaytn.com/token/0x41caedeb79dbc3d763f0b474217c8a655cd73b5f)
+- AirDrop: [0x6b7a4fAe9c6833DCB74793A638F5F1Fc23E8e761](https://baobab.scope.klaytn.com/account/0x6b7a4fAe9c6833DCB74793A638F5F1Fc23E8e761)
  
 ## 토큰은 어디서 살 수 있나요?
 아쉽지만 지금은 살 수 없어요.
