@@ -23,6 +23,9 @@ ex) 100만원 매수 -> 90만원, 90만원 매도 -> 81만원
 ## Baobab Testnet
 - GukBap Token: 0x0000000000000000000000000000000000000000
 - AirDrop: 0x0000000000000000000000000000000000000000
+ 
+## 어디서 살 수 있나요?
+아쉽지만 지금은 살 수 없어요.
 
 ### 후원 (Etereum, Klaytn, Binance Smart Chain, Polygon)
 [0x9c031eC3d3D2117263cB4Cc304f4b50194582A93](https://etherscan.io/address/0x9c031eC3d3D2117263cB4Cc304f4b50194582A93)
