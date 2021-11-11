@@ -253,7 +253,7 @@ interface GukBapInterface {
 contract FirstcomeAirdrop is Ownable {
     using SafeMath for uint256;
 
-    IInjeolmi public ijm;
+    GukBapInterface public guk;
     uint256 public season = 0;
     uint256 public airdropAmount = 1000 * 1e8;
     mapping(uint256 => mapping(address => bool)) public dropped;
