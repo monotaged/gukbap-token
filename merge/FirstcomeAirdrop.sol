@@ -258,7 +258,7 @@ contract FirstcomeAirdrop is Ownable {
     uint256 public airdropAmount = 1000 * 1e8;
     mapping(uint256 => mapping(address => bool)) public dropped;
 
-    constructor(GukBapInterface guk) public {
+    constructor(GukBapInterface _guk) public {
         guk = _guk;
     }
 
