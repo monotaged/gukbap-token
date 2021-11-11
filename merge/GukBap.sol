@@ -399,8 +399,8 @@ interface GukBapInterface {
 contract GukBap is Ownable, Pausable, GukBapInterface {
     using SafeMath for uint256;
 
-    string public constant NAME = "GukBap";
-    string public constant SYMBOL = "GUK";
+    string public constant NAME = "GukBap Token";
+    string public constant SYMBOL = "GBT";
     uint8 public constant DECIMALS = 8;
 
     uint256 public constant TOTAL_SUPPLY = 100000000 * 10**uint256(DECIMALS);
