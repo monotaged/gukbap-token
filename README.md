@@ -29,3 +29,5 @@ ex) 100만원 매수 -> 90만원, 90만원 매도 -> 81만원
 
 ### 후원 (Etereum, Klaytn, Binance Smart Chain, Polygon)
 [0x9c031eC3d3D2117263cB4Cc304f4b50194582A93](https://etherscan.io/address/0x9c031eC3d3D2117263cB4Cc304f4b50194582A93)
+
+[참고 프로젝트](https://github.com/tteokmill/injeolmi)
