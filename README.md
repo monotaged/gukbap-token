@@ -6,6 +6,8 @@
     <h3>국밥 토큰은 토크노믹스 기반 Klaytn 밈 코인입니다. </h3>
 </p>
 
+### 이 토큰은 개발이 종료되었습니다
+
 
 ## 토크노믹스
 국밥 토큰 토크노믹스는 거래 금액의 10%을 사용해 토큰 홀더에게 배분합니다.
@@ -27,7 +29,5 @@ ex) 100만원 매수 -> 90만원, 90만원 매도 -> 81만원
 ## 토큰은 어디서 살 수 있나요?
 아쉽지만 지금은 살 수 없어요.
 
-### 후원 (Etereum, Klaytn, Binance Smart Chain, Polygon)
-[0x9c031eC3d3D2117263cB4Cc304f4b50194582A93](https://etherscan.io/address/0x9c031eC3d3D2117263cB4Cc304f4b50194582A93)
 
 [참고 프로젝트](https://github.com/tteokmill/injeolmi)
